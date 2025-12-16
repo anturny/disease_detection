@@ -3,6 +3,8 @@
   This project utilizes machine learning classification techniques to predict diseases based on symptom data. In this project, disease prediction is treated as a classification problem in which each patient record is represented by a set of symptom features and is assigned to a specific disease category. The 3 models that were tested: support vector machines (SVM), deep neural networks (DNN), and shallow neural networks (SNN).
   This repository contains source code for data preprossing, model training, and evaluation alongside any figures and documentation of results. The project was conducted utilizing the same dataset and evaluation metrics to ensure fair comparison across the 3 models. 
 
+  This GitHub repository was made in collaboration by [Yarah Al-Fouleh](https://github.com/yarah-yma1), [Senem Keceli](https://github.com/senem584), and [Anthony Nguyen](https://github.com/anturny).
+
   ## Table Of Contents
 - [Introduction](#introduction)
 - [Exploration and Quantification](#exploration-and-quantification)
