@@ -8,7 +8,6 @@ import numpy as np
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import LabelEncoder
-import data
 
 ''' In order to run this script, you need open a terminal and use the command: 
     
