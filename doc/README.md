@@ -1,0 +1,1 @@
+This folder is meant for documents to help understand and contextualize information as shown in the repository's main README.md
