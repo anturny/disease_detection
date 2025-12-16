@@ -60,11 +60,11 @@ The accuracy of the SVM model was reported as 41.50%. The classification report 
 
 ![alt_text](/media/diseaseSVMClassificationReport.PNG)
 
-The accuracy of the DNN model was reported as 34.00%. The classification report of the model had similar performance to the SVM model in which some diseases received moderate scores, and others received low scores. 
+The accuracy of the DNN model was reported as 34.00%. The classification report of the model had similar performance to the SVM model in which some diseases received moderate scores, and others received low scores when trained with 10 layers and 100 epochs. 
 
 ![alt_text](/media/diseaseDNNTestDataReport.PNG)
 
-The accuracy of the SNN model was reported as 41.75% The classification report was similar to the SVM and DNN models. The SNN model had the highest overall accuracy and performance for disease prediction with this specific dataset. 
+The accuracy of the SNN model was reported as 41.75% The classification report was similar to the SVM and DNN models. The SNN model had the highest overall accuracy and performance for disease prediction with this specific dataset when trained with 3 layers and 10 epochs. 
 
 ![alt_text](/media/diseaseSNNTestDataReport.PNG)
 
